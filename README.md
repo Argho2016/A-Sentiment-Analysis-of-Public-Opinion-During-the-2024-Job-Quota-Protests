@@ -1,0 +1,2 @@
+# A-Sentiment-Analysis-of-Public-Opinion-During-the-2024-Job-Quota-Protests
+This report analyzes sentiments and emotions from tweets during and after Bangladesh's 2024 student protests using advanced deep learning models. Negative sentiment dominated both periods, rising post-protest, while positive sentiment slightly increased. Neutral emotions were most frequent, with anger decreasing and joy moderately rising. 
